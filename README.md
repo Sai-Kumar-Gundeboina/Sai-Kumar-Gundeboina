@@ -48,7 +48,7 @@ Passionate about streamlining production through automation, predictive maintena
 
 ## 🎓 Education & Certifications
 
-- **B.Tech in Computer Science & Engineering ** – Malla Reddy college of Engineering and Technology, 2023
+- B.Tech in Computer Science & Engineering – Malla Reddy college of Engineering and Technology, 2023
 - 📜 Certifications:
   - *Industrial Automation with Python* – [Provider]
   - *C# and .NET Development* – [Provider]
@@ -66,7 +66,7 @@ Passionate about streamlining production through automation, predictive maintena
 
 ## 📫 Get in Touch
 
-- Email: [your.email@example.com]  
-- LinkedIn: [Your LinkedIn Profile]  
-- Portfolio: [Your Portfolio/Website Link]
+- Email: Gundeboinasaikumar86@gmail.com]  
+- LinkedIn: https://www.linkedin.com/in/gundeboinasaikumar/  
+- Portfolio: link
 
