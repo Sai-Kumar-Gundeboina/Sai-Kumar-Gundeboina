@@ -1,6 +1,6 @@
 # 👨‍💻 Software Engineer – CNC Automation & Industrial Software
 
-**Languages:** C, C++, Python, C#, Java, JavaScript  
+**Languages:** C, C++, Python, C#, JavaScript  
 **Frameworks & Databases:** .NET, Django, Flask, MySQL, MongoDB, MSSQL, SQLite  
 **Technologies:** FTP, REST APIs, FOCAS Library, Apache & Tomcat Web Servers  
 **Security:** Network & Systems Security, Malware Analysis, Digital Forensics
